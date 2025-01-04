@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rishi Daryanani Arias!</h1>
+<h1 align="center">Hi, I'm Rishi Daryanani!</h1>
 <h3 align="center">A coder that can't stop coding 🚀</h3>
 <p align="center">
 </p>
